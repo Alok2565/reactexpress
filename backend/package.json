@@ -1,0 +1,25 @@
+{
+  "name": "thbm_app",
+  "version": "1.0.0",
+  "description": "This Application for Transfer of human biological samples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alok2565/reactexpress.git"
+  },
+  "author": "Alok Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alok2565/reactexpress/issues"
+  },
+  "homepage": "https://github.com/Alok2565/reactexpress#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.14.2",
+    "mongoose": "^8.12.1",
+    "mysql": "^2.18.1"
+  }
+}
